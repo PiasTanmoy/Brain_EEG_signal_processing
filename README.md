@@ -22,9 +22,12 @@
 
 
 
-Please cite our paper
+Our paper:
 https://ieeexplore.ieee.org/abstract/document/9203672/ 
 
+You can email us for the pre-print paper.
+
+Please cite our paper:
 R. Hassan, S. Hasan, M. J. Hasan, M. R. Jamader, D. Eisenberg and T. Pias, "Human Attention Recognition with Machine Learning from Brain-EEG Signals," 2020 IEEE 2nd Eurasia Conference on Biomedical Engineering, Healthcare and Sustainability (ECBIOS), Tainan, Taiwan, 2020, pp. 16-19, doi: 10.1109/ECBIOS50299.2020.9203672. 
 
 @INPROCEEDINGS{9203672,
