@@ -1,16 +1,24 @@
 # Brain_EEG_signal_processing
 
-<img src="graphs/1. raw.png">
+<img src="graphs/Data_Capture.JPG">
 
-<img src="graphs/2. gamma.png">
+<img src="graphs/Plot_example.jpg">
 
-<img src="graphs/3. beta.png">
+<img src="graphs/Decomposing_wf.JPG">
 
-<img src="graphs/4. alpha.png">
+<img src="graphs/1. raw.png" height=300, width=300> <img src="graphs/2. gamma.png" height=300, width=300> <img src="graphs/3. beta.png" height=300, width=300> 
+<img src="graphs/4. alpha.png" height=300, width=300> <img src="graphs/6. theta.png" height=300, width=300> <img src="graphs/7. delta.png" height=300, width=300>
 
-<img src="graphs/6. theta.png">
+<img src="graphs/3D subbands.png">
 
-<img src="graphs/7. delta.png">
+<img src="graphs/spectrogram.jpg">
+
+
+<img src="graphs/cnn_lstm.png">
+
+
+
+
 
 
 
