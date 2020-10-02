@@ -1,6 +1,21 @@
 # Brain_EEG_signal_processing
 
-<img src="graphs/1. raw.png" height=200, width=200> <img src="graphs/2. gamma.png" height=200, width=200> <img src="graphs/3. beta.png" height=200, width=200> <img src="graphs/4. alpha.png" height=200, width=200> <img src="graphs/6. theta.png" height=200, width=200> <img src="graphs/7. delta.png" height=200, width=200>
+
+<img src="graphs/Plot_example.jpg">
+
+<img src="graphs/1. raw.png" height=300, width=300> <img src="graphs/2. gamma.png" height=300, width=300> <img src="graphs/3. beta.png" height=300, width=300> 
+<img src="graphs/4. alpha.png" height=300, width=300> <img src="graphs/6. theta.png" height=300, width=300> <img src="graphs/7. delta.png" height=300, width=300>
+
+<img src="graphs/3D subbands.png">
+
+<img src="graphs/spectrogram.jpg">
+
+
+<img src="graphs/cnn_lstm.png">
+
+
+
+
 
 
 
