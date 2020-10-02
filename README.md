@@ -1,5 +1,19 @@
 # Brain_EEG_signal_processing
 
+<img src="graphs/1. raw.png">
+
+<img src="graphs/2. gamma.png">
+
+<img src="graphs/3. beta.png">
+
+<img src="graphs/4. alpha.png">
+
+<img src="graphs/6. theta.png">
+
+<img src="graphs/7. delta.png">
+
+
+
 Please cite our paper
 https://ieeexplore.ieee.org/abstract/document/9203672/ 
 
